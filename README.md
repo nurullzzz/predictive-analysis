@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/75351301/236826257-76fa72c2-2802-4902-aa98-a480f7190e8f.png)
+Proyek Submission Pertama Pada Kelas Machine Learning Terapan (Kelas Expert) Dicoding
+
 # Laporan Proyek Machine Learning - Nurul Tazkiyah Adam
 
 ## Daftar Isi
